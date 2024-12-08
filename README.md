@@ -1,2 +1,2 @@
 # project-govapi
-US Government API Optimizer service
+US Government public API optimizer service.
